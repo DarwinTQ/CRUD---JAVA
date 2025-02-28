@@ -37,7 +37,7 @@ MATR_UNS/
 ## Instalación y Configuración
 1. **Clonar el repositorio:**
    ```sh
-   git clone https://github.com/tu-repositorio/MATR_UNS.git
+   git clone https://github.com/DarwinTQ/CRUD---JAVA
    ```
 2. **Abrir el proyecto en NetBeans o Visual Studio Code.**
 3. **Configurar la base de datos:**
@@ -57,5 +57,7 @@ MATR_UNS/
 Si deseas contribuir a este proyecto, realiza un fork del repositorio, realiza tus cambios y envía un pull request.
 
 ## Autor
-[Tu Nombre] - [Tu Correo o GitHub]
+[Darwin TQ](https://github.com/DarwinTQ) - [Repositorio del Proyecto](https://github.com/DarwinTQ/CRUD---JAVA)
+
+
 
